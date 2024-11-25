@@ -30,7 +30,8 @@ img {
   max-width: 100%;
   height: auto;
   display: block;
-  border: none;
+  border: 2px solid var(--input-border);
+  border-radius: var(--border-radius);
 }
 .container {
   max-width: 1200px;
